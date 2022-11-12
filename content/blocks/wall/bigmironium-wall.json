@@ -1,0 +1,12 @@
+{
+	"name": "BIGMironium-Wall",
+	"description": "-",
+	"type": "Wall",
+	"health": 4000,
+	"size": 1,
+	"requirements": [
+		{ "item": "mironium-alloy", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "router"
+}

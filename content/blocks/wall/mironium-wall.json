@@ -1,0 +1,12 @@
+{
+	"name": "Mironium-Wall",
+	"description": "-",
+	"type": "Wall",
+	"health": 1100,
+	"size": 1,
+	"requirements": [
+		{ "item": "mironium", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "router"
+}
