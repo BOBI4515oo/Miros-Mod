@@ -1,0 +1,52 @@
+{
+	"type": "liquidTurret"
+	"name": "large flamethrower"
+	"description": "burns everything in its path"
+	"health": 1500
+	"size": 3
+	"recoilAmount": 1
+	"reloadTime": 30
+	"range": 150
+	"ammoUseEffect": "casing1"
+	"targetGround": true
+	"inaccuracy": 0.0
+	"shots": 3
+	"rotateSpeed": 5.0
+	"ammoTypes": {
+		"slag": {
+			"speed": 2.0
+			"lifetime": 50
+			"damage": 120
+			"type": "LiquidBulletType"
+			"liquid": "slag"
+			"reloadMultiplier": 1.0
+			"shootEffect": "shootLiquid"
+			"smokeEffect": "shootSmallSmoke"
+			
+			"ammoMultiplier": 1
+			"status": "burning"
+		}
+		"oil": {
+			"speed": 2.0
+			"damage": 200
+			"lifetime": 50
+			"type": "LiquidBulletType"
+			"liquid": "oil"
+			"reloadMultiplier": 1.0
+			"shootEffect": "shootLiquid"
+			"smokeEffect": "shootSmallSmoke"
+			
+			"ammoMultiplier": 1
+			"status": "burning"
+		}
+	}
+	"requirements": [
+		metaglass/2000
+		graphite/2000
+		copper/2500
+		lead/2000
+		silicon/2000
+	]
+	"category": "turret"
+	"alwaysUnlocked": true
+}

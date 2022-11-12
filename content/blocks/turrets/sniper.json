@@ -1,0 +1,37 @@
+{
+	"name": "MironiumTurret"
+	"description": "-"
+	"type": "ItemTurret"
+	"size": 3
+	"health": 9999999
+	"recoilAmount": 10
+	"reloadTime": 1
+	"range": 5000
+	"ammoUseEffect": "casing1"
+	"shootSound": "shotgun"
+	"inaccuracy": 0.0
+	"shots": 10
+	"rotateSpeed": 100
+	"ammoTypes": {
+		"copper": {
+			"speed": 0.1
+			"lifetime": 10
+			"damage": 999999
+			"reloadMultiplier": 0.5
+			"width": 3
+			"height": 9
+			"shootEffect": "none"
+			"smokeEffect": "none"
+			
+			"ammoMultiplier": 1
+			"backColor": "AF8A69"
+			"frontColor": "ffdab9"
+		}
+	}
+	"coolantMultiplier": 0.7
+	"requirements": [
+		copper/1
+	]
+	"category": "turret"
+	"alwaysUnlocked": true
+}

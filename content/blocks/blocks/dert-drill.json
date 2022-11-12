@@ -1,0 +1,16 @@
+{
+	"name": "dert-drill",
+	"description": "Drills? Dear-Drill? no.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 6,
+	"drillTime":100,
+	"requirements": [
+		{ "item": "titanium", "amount": 160 }
+		{ "item": "lead", "amount": 160 }
+		{ "item": "coal", "amount": 160 }
+		{ "item": "graphite", "amount": 160 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

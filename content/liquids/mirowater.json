@@ -1,0 +1,11 @@
+{
+ "type": "liquid",
+ "name": "mirowater",
+ "description": "Water? no...",
+ "color": "#ADFF2F",
+ "flammability": 0f,
+ "temperature": 0f,
+ "heatCapacity": 1f,
+ "viscosity": 0f,
+ "explosiveness": 0f
+}

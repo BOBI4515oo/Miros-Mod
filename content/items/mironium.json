@@ -1,0 +1,16 @@
+{
+ "type": "material",
+ "name": "mironium",
+ "description": "What?",
+ "color": "FF00F3",
+ "explosiveness": 0f,
+ "flammability": 1f,
+ "radioactivity": 0f,
+ "hardness": 1,
+ "cost": 1f,
+ 	"requirements": [
+		{ "item": "titanium", "amount": 250 }
+	],
+ "category": "resources",
+ "research": "silicon"
+}

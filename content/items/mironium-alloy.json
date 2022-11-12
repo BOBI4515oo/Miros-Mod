@@ -1,0 +1,16 @@
+{
+ "type": "craft",
+ "name": "mironium-alloy",
+ "description": "Oh... Whats....",
+ "color": "808000",
+ "explosiveness": 0f,
+ "flammability": 1f,
+ "radioactivity": 1f,
+ "hardness": 1,
+ "cost": 1f,
+ 	"requirements": [
+		{ "item": "mironium", "amount": 350 }
+	],
+ "category": "resources",
+ "research": "mironium"
+}
