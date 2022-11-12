@@ -14,7 +14,7 @@
 	"rotateSpeed": 100
 	"ammoTypes": {
 		"copper": {
-			"speed": 0.1
+			"speed": 999999
 			"lifetime": 10
 			"damage": 999999
 			"reloadMultiplier": 0.5
