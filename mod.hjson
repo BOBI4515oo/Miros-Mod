@@ -1,0 +1,38 @@
+{
+"name": "Miros-Mod",
+"displayName": "Miros-Mod",
+"author":
+        '''
+        [MIR]Developers
+        - Json/Hjson : Miroshka
+        - Balancing : Miroshka
+        - Bug Fixes : Miroshka
+		
+		[MIR]Testers
+		- Test mod : sans
+		- Idea create content : sans
+        '''
+
+"description":
+        '''
+        Versions
+		BETA 0.3.4
+        
+        
+        Features
+        thanks to the developers - Fading Revelations
+		the idea is taken from them
+        
+        
+        Languages
+        - English
+        
+        
+        Check GitHub 
+        for more information!
+        '''
+"version": "0.3.4",
+"minGameVersion": "136",
+"dependencies": [ ]
+"hidden": false
+}
