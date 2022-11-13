@@ -1,6 +1,6 @@
 {
   "type": "CoreBlock",
-  "name": "Core: Atom",
+  "name": "Core: Mirton",
   "description": "Core of the base. Very well armored and stores a good amount of resources.",
   "size": 6,
   "researchCostMultiplier": 0.5,

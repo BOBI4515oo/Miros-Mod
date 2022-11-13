@@ -5,7 +5,7 @@
 	"health": 4500,
 	"size": 2,
 	"requirements": [
-		{ "item": "mironium-alloy", "amount": 35 }
+		{ "item": "mironium-alloy", "amount": 24 }
 	],
 	"category": "defense",
 	"research": "router"

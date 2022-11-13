@@ -4,9 +4,9 @@
  "description": "Oh... Whats....",
  "color": "808000",
  "explosiveness": 0f,
- "flammability": 1f,
- "radioactivity": 1f,
- "hardness": 1,
+ "flammability": 0f,
+ "radioactivity": 0.20f,
+ "hardness": 0.40,
  "cost": 1f,
  	"requirements": [
 		{ "item": "mironium", "amount": 350 }

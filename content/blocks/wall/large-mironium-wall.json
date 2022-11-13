@@ -2,10 +2,10 @@
 	"name": "Large-Mironium-Wall",
 	"description": "-",
 	"type": "Wall",
-	"health": 1500,
+	"health": 4000,
 	"size": 2,
 	"requirements": [
-		{ "item": "mironium", "amount": 35 }
+		{ "item": "mironium", "amount": 24 }
 	],
 	"category": "defense",
 	"research": "router"
