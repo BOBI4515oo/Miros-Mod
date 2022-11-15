@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "steel-foundry",
+	"description": "-",
+	"outputItem": {"item": "steel", "amount": 2},
+	"size": 2,
+	"hasPower": false,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+                {"item": "coal", "amount": 2},
+                {"item": "spore-pod", "amount": 2},
+                {"item": "pyratite", "amount": 2},
+                {"item": "blast-compound", "amount": 2}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "scrap", "amount": 200 },
+		{ "item": "copper", "amount": 500 },
+		{ "item": "lead", "amount": 500 }
+	],
+	"category": "crafting",
+	"research": "router",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

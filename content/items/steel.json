@@ -1,0 +1,16 @@
+{
+ "type": "material",
+ "name": "steel",
+ "description": "What?",
+ "color": "FF00F3",
+ "explosiveness": 0f,
+ "flammability": 0f,
+ "radioactivity": 0f,
+ "hardness": 1,
+ "cost": 1f,
+ 	"requirements": [
+		{ "item": "titanium", "amount": 350 }
+	],
+ "category": "resources",
+ "research": "mironium-alloy"
+}
