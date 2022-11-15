@@ -16,7 +16,7 @@
 "description":
         '''
         Versions
-		Patch BETA 0.3.4
+		BETA 0.4.0
         
         
         Features
@@ -31,7 +31,7 @@
         Check GitHub 
         for more information!
         '''
-"version": "0.3.4",
+"version": "0.4.0",
 "minGameVersion": "136",
 "dependencies": [ ]
 "hidden": false
