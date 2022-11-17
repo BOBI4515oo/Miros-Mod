@@ -1,6 +1,6 @@
 {
 "name": "Miros-Mod",
-"displayName": "Miros-Mod",
+"displayName": "[purple]Miros-Mod",
 "author":
         '''
         [MIR]Developers
@@ -16,7 +16,7 @@
 "description":
         '''
         Versions
-		BETA 0.4.0
+		BETA 0.4.1
         
         
         Features
@@ -31,7 +31,7 @@
         Check GitHub 
         for more information!
         '''
-"version": "0.4.0",
+"version": "0.4.1",
 "minGameVersion": "136",
 "dependencies": [ ]
 "hidden": false

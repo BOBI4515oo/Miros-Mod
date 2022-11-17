@@ -33,5 +33,5 @@
 		copper/1
 	]
 	"category": "turret"
-	"alwaysUnlocked": true
+	"research": "large"
 }

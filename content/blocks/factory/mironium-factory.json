@@ -26,7 +26,7 @@
 		{ "item": "lead", "amount": 3000 }
 	],
 	"category": "crafting",
-	"research": "router",
+	"research": "mod-gate-crafters",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

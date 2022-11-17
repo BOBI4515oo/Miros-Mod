@@ -8,5 +8,5 @@
 		{ "item": "mironium", "amount": 24 }
 	],
 	"category": "defense",
-	"research": "router"
+	"research": "mironium-wall"
 }

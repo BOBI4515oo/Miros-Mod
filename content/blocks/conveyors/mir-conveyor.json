@@ -11,5 +11,5 @@
 	"category": "distribution",
 	"speed": 0.2,
 	"health" : 210,
-	"research": "titanium-conveyor"
+	"research": "mod-gate-distribution"
 }

@@ -1,0 +1,11 @@
+{
+    "type": "Wall",
+    "name": "Gate: Items",
+    "description": "The gate to all of the items included in the Miros-Mod.",
+    "details": "Contains the tech tree of Miros-Mod items.",
+    "health": 0,
+    "buildVisibility": "hidden",
+    "alwaysUnlocked": true,
+    "research": "mod-gate-main",
+    "size": 1
+}

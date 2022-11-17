@@ -48,5 +48,5 @@
 		silicon/2000
 	]
 	"category": "turret"
-	"alwaysUnlocked": true
+	"research": "republique2"
 }

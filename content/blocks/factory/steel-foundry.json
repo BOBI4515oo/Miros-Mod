@@ -13,9 +13,7 @@
 		"items": {
 			"items": [
                 {"item": "coal", "amount": 2},
-                {"item": "spore-pod", "amount": 2},
-                {"item": "pyratite", "amount": 2},
-                {"item": "blast-compound", "amount": 2}
+                {"item": "scrap", "amount": 2},
 			]
 		}
 	},
@@ -25,7 +23,7 @@
 		{ "item": "lead", "amount": 500 }
 	],
 	"category": "crafting",
-	"research": "router",
+	"research": "mironium-factory",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

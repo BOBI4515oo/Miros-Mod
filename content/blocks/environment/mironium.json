@@ -1,4 +1,5 @@
 {
 	"type": "OreBlock",
 	"itemDrop": "mironium"
+	"research": "mod-gate-resources"
 }

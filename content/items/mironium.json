@@ -12,5 +12,5 @@
 		{ "item": "titanium", "amount": 250 }
 	],
  "category": "resources",
- "research": "silicon"
+ "research": "mod-gate-resources"
 }

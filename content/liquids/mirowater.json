@@ -8,4 +8,5 @@
  "heatCapacity": 1f,
  "viscosity": 0f,
  "explosiveness": 0f
+ "research": "mod-gate-liquids"
 }

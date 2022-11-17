@@ -36,5 +36,5 @@
 		mironium/750
 	]
 	"category": "turret"
-	"alwaysUnlocked": true
+	"research": "mod-gate-turrets"
 }
