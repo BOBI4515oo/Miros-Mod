@@ -26,7 +26,7 @@
 		{ "item": "lead", "amount": 3000 }
 	],
 	"category": "crafting",
-	"research": "mod-gate-crafters",
+	"research": "steel-foundry",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

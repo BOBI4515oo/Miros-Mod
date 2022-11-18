@@ -15,7 +15,7 @@
 	"ammoTypes": {
 		"copper": {
 			"speed": 999999
-			"lifetime": 10
+			"lifetime": 1000
 			"damage": 999999
 			"reloadMultiplier": 0.5
 			"width": 3

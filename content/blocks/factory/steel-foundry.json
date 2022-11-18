@@ -23,7 +23,7 @@
 		{ "item": "lead", "amount": 500 }
 	],
 	"category": "crafting",
-	"research": "mironium-factory",
+	"research": "mod-gate-crafters",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

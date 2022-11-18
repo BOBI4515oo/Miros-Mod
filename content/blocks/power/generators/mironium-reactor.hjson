@@ -1,0 +1,39 @@
+type: NuclearReactor
+name: "Mironium Reactor"
+description: "A reactor that uses uraniumrods to create a lot of power. Explodes violently when not cooled all the time!"
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+explosionShake: 10
+explodeSound: me-nrexp
+itemCapacity: 20
+liquidCapacity: 120
+itemDuration: 1650
+powerProduction: 330
+heating: 0.02
+smokeThreshold: 0.58
+explosionRadius: 500
+explosionDamage: 10000
+flashThreshold: 0.4
+coolantPower: 0.5
+fuelItem: mironium-alloy
+consumes: {
+ liquid: water/0.08
+ items: {
+  items: [
+    {item: mironium-alloy, amount: 9}
+  ]
+ }
+}
+requirements: [
+  copper/1000
+  lead/900
+  graphite/750
+  metaglass/500
+  silicon/500
+  titanium/800
+  mironium/500
+]
+category: power
+research: mod-gate-power

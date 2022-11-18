@@ -1,5 +1,10 @@
 {
 	"type": "OreBlock",
+	"localizedName": "Mironium",
+	"description": "-",
+	"hasColor": true,
+	"mapColor": "FF00F3"
 	"itemDrop": "mironium"
+	"variants": 3
 	"research": "mod-gate-resources"
 }
