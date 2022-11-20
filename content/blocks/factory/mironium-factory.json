@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "steel-foundry",
+	"description": "an alternative method of mining mironium",
+	"outputItem": {"item": "mironium", "amount": 3},
+	"size": 2,
+	"hasPower": false,
+	"hasItems": true,
+	"craftTime": 65,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.9,
+		"items": {
+			"items": [
+                {"item": "thorium", "amount": 14},
+                {"item": "plastanium", "amount": 24},
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "plastanium", "amount": 100 },
+		{ "item": "copper", "amount": 500 },
+		{ "item": "lead", "amount": 500 }
+	],
+	"category": "crafting",
+	"research": "mod-gate-factories",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
