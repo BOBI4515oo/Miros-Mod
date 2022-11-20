@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "steel-foundry",
+	"name": "Mironium-Factory",
 	"description": "an alternative method of mining mironium",
 	"outputItem": {"item": "mironium", "amount": 3},
 	"size": 2,
