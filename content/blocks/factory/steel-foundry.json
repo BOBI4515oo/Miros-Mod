@@ -2,11 +2,11 @@
 	"type": "GenericCrafter",
 	"name": "steel-foundry",
 	"description": "-",
-	"outputItem": {"item": "steel", "amount": 2},
+	"outputItem": {"item": "steel", "amount": 4},
 	"size": 2,
 	"hasPower": false,
 	"hasItems": true,
-	"craftTime": 90,
+	"craftTime": 40,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.7,

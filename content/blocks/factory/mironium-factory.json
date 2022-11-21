@@ -2,11 +2,11 @@
 	"type": "GenericCrafter",
 	"name": "Mironium-Factory",
 	"description": "an alternative method of mining mironium",
-	"outputItem": {"item": "mironium", "amount": 2},
+	"outputItem": {"item": "mironium", "amount": 5},
 	"size": 2,
 	"hasPower": false,
 	"hasItems": true,
-	"craftTime": 35,
+	"craftTime": 15,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.9,

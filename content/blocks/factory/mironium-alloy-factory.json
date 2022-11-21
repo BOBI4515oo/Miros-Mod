@@ -2,11 +2,11 @@
 	"type": "GenericCrafter",
 	"name": "mironium-factory",
 	"description": "-",
-	"outputItem": {"item": "mironium-alloy", "amount": 1},
+	"outputItem": {"item": "mironium-alloy", "amount": 3},
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 60,
+	"craftTime": 40,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.7,
