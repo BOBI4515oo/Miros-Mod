@@ -6,14 +6,14 @@
 	"size": 2,
 	"hasPower": false,
 	"hasItems": true,
-	"craftTime": 65,
+	"craftTime": 35,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.9,
 		"items": {
 			"items": [
-                {"item": "thorium", "amount": 10},
-                {"item": "plastanium", "amount": 10},
+                {"item": "thorium", "amount": 3},
+                {"item": "plastanium", "amount": 3},
 			]
 		}
 	},
