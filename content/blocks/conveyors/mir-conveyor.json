@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Mir-Conveyor",
-	"description": "-",
+	"description": "1 versions",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},
@@ -9,7 +9,7 @@
 		{"item": "mironium", "amount": 3},
 	],
 	"category": "distribution",
-	"speed": 1,
+	"speed": 0.6,
 	"health" : 210,
 	"research": "mod-gate-distribution"
 }
